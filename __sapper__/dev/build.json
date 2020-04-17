@@ -1,0 +1,34 @@
+{
+  "bundler": "rollup",
+  "shimport": "1.0.1",
+  "assets": {
+    "main": "client.8b99c30e.js"
+  },
+  "css": {
+    "main": "main.237455804.css",
+    "chunks": {
+      "index.svelte": [
+        "index.a8fc86b2.css",
+        "client.8b99c30e.css"
+      ],
+      "information.svelte": [
+        "client.8b99c30e.css"
+      ],
+      "payment.svelte": [
+        "payment.5315e2c5.css",
+        "client.8b99c30e.css"
+      ],
+      "about.svelte": [
+        "client.8b99c30e.css"
+      ],
+      "blog/index.svelte": [
+        "index.d5b0c6ef.css",
+        "client.8b99c30e.css"
+      ],
+      "blog/[slug].svelte": [
+        "[slug].16441398.css",
+        "client.8b99c30e.css"
+      ]
+    }
+  }
+}
