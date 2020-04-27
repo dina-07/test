@@ -6,8 +6,8 @@
 
 <style>
 	main {
-		position: relative;
-		max-width: 56em;
+		position: auto;
+		max-width: auto;
 		background-color: white;
 		padding: 2em;
 		margin: 0 auto;
